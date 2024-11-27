@@ -65,7 +65,7 @@ This dashboard is designed to provide insights into:
 ---
 
 ### Screenshot
-![Elbrit Dashboard Screenshot](path/to/dashboard_image.png)  
+![Elbrit Dashboard Screenshot]([path/to/dashboard_image.png](https://github.com/ABHISHEK0S1INGH/Elbrit-Lifesciences-Private-Limited-Dashboard/blob/095c41b6483e00f93db8c53e49b4f2c94c8b6971/Screenshot%202024-11-26%20230959.png))  
 *Replace `path/to/dashboard_image.png` with the relative path to the image file in your repository.*
 
 ---
